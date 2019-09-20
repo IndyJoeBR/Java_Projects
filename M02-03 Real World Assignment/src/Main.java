@@ -47,10 +47,12 @@ public class Main {
 
         // Show entries
         System.out.println("\t \t \t \t \t \t \t \t XYZ Community Hospital");
-        System.out.println("==========================================================================================================");
+        System.out.println("=====================================================================================================================================================");
         System.out.println("\t Name \t \t \t \t \t Address");
-        System.out.println("Last \t \t First \t \t Address Line 1 \t \t City \t \t \t State \t Zip \t \t \t Amount Owed \t Payment Amt. \t Payment Date");
-        System.out.println(lastName + "\t \t" + firstName + "\t \t" + address1 + "\t \t" + city + "\t \t" + state + "\t \t" + zipCode + "+" + zipPlus4 + "\t \t \t" + amountOwed + "\t \t \t" + paymentAmount + "\t \t \t" + paymentDate);
+        System.out.println("Last \t \t First \t \t Address Line 1 \t \t City \t \t \t State \t \t Zip \t \t \t \t Amount Owed \t Payment Amt. \t Payment Date");
+        System.out.println("=====================================================================================================================================================");
+        System.out.println(lastName + "\t \t" + firstName + "\t \t" + address1 + "\t \t" + city + "\t \t" + state + "\t \t" + zipCode + "+" + zipPlus4 + "\t \t \t \t$" + amountOwed + "\t \t \t$" + paymentAmount + "\t \t  " + paymentDate);
+        System.out.println("\t \t \t \t \t \t" + address2);
 
 
     }

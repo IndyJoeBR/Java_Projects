@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e51f54a8-862f-4ec3-9172-c91d97a83c02" name="Default Changelist" comment="M02 Assignment, Exercise 3.15, p111">
-      <change afterPath="$PROJECT_DIR$/M02_Assignment3-15/M02_Assignment3-15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M02_Assignment3-15/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method_Example/Method_Example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method_Example/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e51f54a8-862f-4ec3-9172-c91d97a83c02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M02-03 Real World Assignment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/M02-03 Real World Assignment/src/Main.java" afterDir="false" />
     </list>
@@ -168,7 +163,7 @@
       <workItem from="1568385610428" duration="1775000" />
       <workItem from="1568980338185" duration="618000" />
       <workItem from="1568980986791" duration="75000" />
-      <workItem from="1568981064600" duration="7095000" />
+      <workItem from="1568981064600" duration="9265000" />
     </task>
     <task id="LOCAL-00001" summary="M01 Programming assignment, exercise 2.3">
       <created>1567779760109</created>
@@ -212,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568378174770</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="M02-03 Real World Problem">
+      <created>1568990961534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568990961534</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +241,7 @@
     <MESSAGE value="Chaper 3, Lesson 3.1 Addition Quiz (p77)" />
     <MESSAGE value="M02-03 Real World Assignment" />
     <MESSAGE value="M02 Assignment, Exercise 3.15, p111" />
-    <option name="LAST_COMMIT_MESSAGE" value="M02 Assignment, Exercise 3.15, p111" />
+    <MESSAGE value="M02-03 Real World Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="M02-03 Real World Problem" />
   </component>
 </project>
