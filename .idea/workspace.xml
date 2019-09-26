@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e51f54a8-862f-4ec3-9172-c91d97a83c02" name="Default Changelist" comment="">
+    <list default="true" id="e51f54a8-862f-4ec3-9172-c91d97a83c02" name="Default Changelist" comment="Added exercises for M03: 5.9, 6.9 and 6.15">
+      <change afterPath="$PROJECT_DIR$/M03_6-15/M03_6-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M03_Ex5-9/M03_Ex5-9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M03_Ex5-9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M03_Ex6-15/M03_Ex6-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M03_Ex6-15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M03_Ex6-9/M03_Ex6-9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/M03_Ex6-9/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/M02-03 Real World Assignment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/M02-03 Real World Assignment/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +43,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/M02-03 Real World Assignment" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,14 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AdditionQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdditionQuiz" />
-      <module name="AdditionQuiz" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Method_Example" />
@@ -69,16 +69,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="M01 Ex2-13" />
+      <module name="M03_Ex5-9" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="M02_Assignment3-15" />
+      <module name="M03_Ex6-9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="M03_Ex6-15" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.AdditionQuiz" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +171,11 @@
       <workItem from="1568980338185" duration="618000" />
       <workItem from="1568980986791" duration="75000" />
       <workItem from="1568981064600" duration="9265000" />
+      <workItem from="1569457116060" duration="4242000" />
+      <workItem from="1569464031550" duration="2141000" />
+      <workItem from="1569466178089" duration="2900000" />
+      <workItem from="1569510909956" duration="10685000" />
+      <workItem from="1569525830160" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="M01 Programming assignment, exercise 2.3">
       <created>1567779760109</created>
@@ -242,6 +254,7 @@
     <MESSAGE value="M02-03 Real World Assignment" />
     <MESSAGE value="M02 Assignment, Exercise 3.15, p111" />
     <MESSAGE value="M02-03 Real World Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="M02-03 Real World Problem" />
+    <MESSAGE value="Added exercises for M03: 5.9, 6.9 and 6.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added exercises for M03: 5.9, 6.9 and 6.15" />
   </component>
 </project>
